@@ -8,7 +8,7 @@ const HeroSection = () => {
           Hi,This is Marina
         </h1>
         <p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod, nam?
+        I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development.
         </p>
         <a
           href="#works"

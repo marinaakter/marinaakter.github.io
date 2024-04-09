@@ -1,6 +1,6 @@
 import React from 'react'
 import { GiTechnoHeart } from 'react-icons/gi'
-//import MyworkData from '../data/MyworkData';
+
 
 const WorkItem = ({imgUrl,title,tech,workUrl}) => {
     return (

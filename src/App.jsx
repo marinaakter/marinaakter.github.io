@@ -33,11 +33,11 @@ const App = () => {
       <button
         type="button"
         onClick={handleThemSwitch}
-        className="fixed z-10 right-2 top-2 bg-indigo-500 text-lg p-1 rounded-md"
+        className="fixed z-10 right-2 top-2 bg-indigo-500 text-lg px-3 py-2 rounded-lg"
       >
         {theme === "dark" ? "🌞" : "🌙"}
       </button>
-      <div className="font-Inter bg:white dark:bg-slate-900 ">
+      <div className="font-Inter bg:white dark:bg-slate-900">
         <div className='max-w-5xl mx-auto w-11/12' >
           <HeroSection></HeroSection>
           <Services></Services>
